@@ -1,0 +1,10 @@
+C:\Users\DAVID CASTAÑEDA\source\repos\IvaProducto\IvaProducto\bin\Debug\IvaProducto.exe.config
+C:\Users\DAVID CASTAÑEDA\source\repos\IvaProducto\IvaProducto\bin\Debug\IvaProducto.exe
+C:\Users\DAVID CASTAÑEDA\source\repos\IvaProducto\IvaProducto\bin\Debug\IvaProducto.pdb
+C:\Users\DAVID CASTAÑEDA\source\repos\IvaProducto\IvaProducto\obj\Debug\IvaProducto.csprojAssemblyReference.cache
+C:\Users\DAVID CASTAÑEDA\source\repos\IvaProducto\IvaProducto\obj\Debug\IvaProducto.Form1.resources
+C:\Users\DAVID CASTAÑEDA\source\repos\IvaProducto\IvaProducto\obj\Debug\IvaProducto.Properties.Resources.resources
+C:\Users\DAVID CASTAÑEDA\source\repos\IvaProducto\IvaProducto\obj\Debug\IvaProducto.csproj.GenerateResource.cache
+C:\Users\DAVID CASTAÑEDA\source\repos\IvaProducto\IvaProducto\obj\Debug\IvaProducto.csproj.CoreCompileInputs.cache
+C:\Users\DAVID CASTAÑEDA\source\repos\IvaProducto\IvaProducto\obj\Debug\IvaProducto.exe
+C:\Users\DAVID CASTAÑEDA\source\repos\IvaProducto\IvaProducto\obj\Debug\IvaProducto.pdb
